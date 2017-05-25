@@ -1,0 +1,2 @@
+JMH S 22 org.sample.MyBenchmark S 71 org.sample.generated.MyBenchmark_testParellelMediumStreamMethod_jmhTest S 30 testParellelMediumStreamMethod S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 22 org.sample.MyBenchmark S 72 org.sample.generated.MyBenchmark_testSeqentialMediumStreamMethod_jmhTest S 31 testSeqentialMediumStreamMethod S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
